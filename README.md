@@ -11,7 +11,7 @@ Foodhub, a food aggregator company, offers access to multiple restaurants throug
 
 ### Task
 
-Perform an exploratory data analysis to find answers to the questions below that will help the company to improve business.
+Perform an exploratory data analysis using postgreSQL to explore to the questions below that will help the company to improve business.
 
 
 ### Questions to answer
