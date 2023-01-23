@@ -29,4 +29,15 @@ How are customers rating their experiences?
 
 ### Insights
 
+This dataset includes 1,898 customer orders from 178 restaurants that are available on the app.
+
+![food_order_pivot_1](https://user-images.githubusercontent.com/108645447/213988163-fc24661e-6e2a-4fd2-ad72-5b61da63807a.jpg)
+
+From the data collected, 1,351 orders were placed on the weekend, Saturday and Sunday. While 547 orders were placed during the weekday. 
+
+![food_order_pivot_2](https://user-images.githubusercontent.com/108645447/213988226-abc686a8-b00a-4e36-a5af-b8a45ff00153.jpg)
+
+![food_order_pivot_3](https://user-images.githubusercontent.com/108645447/213988245-675fd1a6-426e-4b58-b363-5be9f2ee767c.jpg)
+
+
 ### Recommendations
