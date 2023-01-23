@@ -29,6 +29,7 @@ How long does it take to receive their order?
 How are customers rating their order?
 
 
+
 ### Insights
 
 Of the 1898 orders recorded, 71.18% were placed on the weekend, Saturday or Sunday. This analysis will focus on orders placed on the weekends in order to highlight areas of opportunity when a vast majority of customers are utilizing the app. 
@@ -45,10 +46,17 @@ Focusing on the top four cuisines, there is a similar pattern regarding distribu
 
 A pattern among the top performing restaurants on the app is that they are either a part of a chain (Shake Shack, TAO) or the restaurant has several locations across the city (Sushi of Gari Tribeca, Sushi of Gari 46). 
 
-The average total time from placing the order to receiving the order was 49.91 minutes on the weekend. American, Japanese, and Italian cuisine restaurants averaged a slightly higher total time - 50.00, 50.12, and 50.22 respectively. Focusing on American cuisine, the top 2 performing restaurants, Shake Shack and Blue Ribbon Fried Chicken averaged total delivery times of 50.55 and 50.18 respectively which is slightly above the average for that cuisine.  
+The average total time from placing the order to receiving the order was 49.91 minutes on the weekend. American, Japanese, and Italian cuisine restaurants averaged a slightly higher total time - 50.00, 50.12, and 50.22 minutes respectively. Focusing on American cuisine, the top 2 performing restaurants, Shake Shack and Blue Ribbon Fried Chicken averaged total delivery times of 50.55 and 50.18 minutes respectively which is slightly above the average for that cuisine.  
 
 About 43.30% of orders on the weekend were given a rating with the average being 4.36/5. As expected, American, Japanese, Italian, and Chinese cuisines were more likely to be given rating compared to the others. The top ten restaurants by rating count are of the four cuisines previously mentioned but only 3 of the restaurants were above the average rating 4.3.
 
 
 
 ### Recommendations
+
+
+Based on the insights above, here are the top 3 recommendations to enhance customer experience:
+
+- Expand availability of American, Japanese, Italian, and Chinese restaurants, if available. Including more locations for a chain like Shake Shack or Blue Ribbon Sushi will expand our resources to allow more orders without compromising food preparation time or delivery time.
+- Increase amount of delivery drivers available for the top performing restaurants. Configure the app to ensure more delivery drivers are available for the busier restaurants especially if multiple orders are usually picked up and delivered at once. Focusing on Shake Shack, and area of improvement is the total time it takes to be delivered. More drivers may equate to faster delivery times because of less stops. 
+- Build out a customer survey along with the overall rating. Further analysis into ratings can provide insight into possible customer complaints. The data available only consisted of one rating but expanding the rating process to include a little survey may help to pinpoint whether there was a one off issue or a pattern emerging. 
