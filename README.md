@@ -26,7 +26,7 @@ How much are they paying?
 
 How long does it take to receive their order?
 
-How are customers rating their experiences?
+How are customers rating their order?
 
 
 ### Insights
@@ -39,8 +39,15 @@ Most of the order are either American (30.72%), Japanese (24.80%), Italian (15.3
 
 ![food order cuisine](https://user-images.githubusercontent.com/108645447/214140345-0107fde7-da89-49e2-8dc5-3c20a2ebf484.jpg)
 
+Focusing on the top four cuisines, there is a similar pattern regarding distribution of orders between restaurants in each cuisine. Typically the most popular 3-4 restaurants will make up over 60% of the business for that cuisine. American cuisine differs from the rest because the majority of business is concentrated on the top 2 restaurants, Shake Shack and Blue Ribbon Fried Chicken, with an emphasis on the first. 
+
 ![food order distribution](https://user-images.githubusercontent.com/108645447/214140366-4437035c-0256-49a8-8563-4cc83242b0e2.jpg)
 
+A pattern among the top performing restaurants on the app is that they are either a part of a chain (Shake Shack, TAO) or the restaurant has several locations across the city (Sushi of Gari Tribeca, Sushi of Gari 46). 
+
+The average total time from placing the order to receiving the order was 49.91 minutes on the weekend. American, Japanese, and Italian cuisine restaurants averaged a slightly higher total time - 50.00, 50.12, and 50.22 respectively. Focusing on American cuisine, the top 2 performing restaurants, Shake Shack and Blue Ribbon Fried Chicken averaged total delivery times of 50.55 and 50.18 respectively which is slightly above the average for that cuisine.  
+
+About 43.30% of orders on the weekend were given a rating with the average being 4.36/5. As expected, American, Japanese, Italian, and Chinese cuisines were more likely to be given rating compared to the others. The top ten restaurants by rating count are of the four cuisines previously mentioned but only 3 of the restaurants were above the average rating 4.3.
 
 
 
